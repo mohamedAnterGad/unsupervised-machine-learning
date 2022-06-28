@@ -5,7 +5,7 @@ this repo has two main things:
 
 2- final project ---> trying different unsupervised algorithms on the "Credit Card Dataset for Clustering" from kaggle
 
-used algorithms: \n
+used algorithms: <br>
 1- kmeans and elbow method
 
 2- DBScan
